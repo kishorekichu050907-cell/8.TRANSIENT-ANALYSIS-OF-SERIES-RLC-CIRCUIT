@@ -23,16 +23,16 @@ Compare the calculated values and measured values of voltage in both the cases.
 **CIRCUIT DIAGRAM:**
 
 
+![f74bf065-c86c-40fb-a9bf-7374eebd2670](https://github.com/user-attachments/assets/91938dd2-6941-42b2-8900-eae37c3562b3)
 
 
 **TABULATION:**
 
 
-**Calculation:**
+
+![6da02c10-68d8-44d6-a4ae-bd94068b0df7](https://github.com/user-attachments/assets/4064e69e-a1eb-4340-8be4-1c9c38ae1000)
 
 
-
-**Marksplitup:**
 
 
 **RESULT:**
